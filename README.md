@@ -7,6 +7,5 @@ BSUIR, 4th sem
 numbers represented in hexadecimal notation (var. 4);
 4. Game "Tetris" (var. 2);
 5. Count the number of lines in a file that contain the specified word (var. 7);
-6. -
 7. Write a program that runs another program N times (N -
 number in the range [1 ... 255]). The name of the program to run is passed on the command line (var. 2).
