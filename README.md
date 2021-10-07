@@ -1,4 +1,4 @@
-# Assembly
+# Labs "Program design and programming languages"
 BSUIR, 4th sem
 # Tasks:
 1. Write a program to display a string of characters (var. 3);
